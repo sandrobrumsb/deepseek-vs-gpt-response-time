@@ -1,4 +1,4 @@
-# 🤖 Comparações de Análises de tempo de resposta das APIs DeepSeek & OpenAI.
+# 🤖 Comparações de tempo de resposta das APIs DeepSeek & OpenAI.
 
 ---
 
